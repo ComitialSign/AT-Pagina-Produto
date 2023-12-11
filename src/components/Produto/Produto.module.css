@@ -228,6 +228,7 @@
 .relacionados-container {
   width: auto; 
   display: flex;
+  justify-content: start;
   gap: 10px;
   overflow-x: scroll;
   -webkit-overflow-scrolling: touch;
@@ -271,3 +272,27 @@
   margin-bottom: 20px;
   cursor: pointer;
 }
+
+@media screen and (min-width: 768px) {
+
+  .produto-vendedor {
+    width: 90%;  
+  }
+
+  .produto-comentarios {
+    width: 88%;
+  }
+
+  .produto-perguntas {
+    width: 88%;
+  }
+  
+  .produtos-relacionados-container {
+    width: 90%;
+  }
+
+.relacionados-container {
+  justify-content: center;
+ }
+}
+
