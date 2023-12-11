@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #000;
+  position: block;
+  background-color: #c0c0c0;
+}
+
+.header-logo {
+  margin-left: 5px;
+}
+
+.header-form {
+  width: 50vw;
+}
+
+.form-search {
+  border-radius: 5px;
+  padding: 2px;
+  width: 100%;
+}
+
+.header-menu {
+  display: flex;
+  gap: 15px;
+  margin-right: 5px;
+  cursor: pointer;
+}

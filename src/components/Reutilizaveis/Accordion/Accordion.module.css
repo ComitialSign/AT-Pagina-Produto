@@ -1,0 +1,17 @@
+.title-style {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  cursor: pointer;
+  height: 50px;
+}
+
+.chevron-transform {
+  transition: transform 300ms ease;
+}
+
+.chevron-transform.open {
+  transform: rotate(180deg);
+}

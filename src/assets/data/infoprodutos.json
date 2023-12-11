@@ -1,0 +1,162 @@
+{
+  "id": "0BD404CFREN1",
+  "nome": "Smartphone XY",
+  "descricao": "Um incrível smartphone com ótimas características. Perfeito para multitarefas e captura de fotos e vídeos de alta qualidade.",
+  "preco": {
+    "vista": "R$1.750,00",
+    "parcelado": "12x de 179,17 (R$2.150,00)"
+  },
+  "avaliacao": "4.2",
+  "imagens": [
+    "https://m.media-amazon.com/images/I/61YIejt-SNL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/61oYqbOrGlL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/61Y8VYMW5XL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/61AeOKYqErL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51znA6Q1fBL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51yCu0sbxOL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51Kxe+k27uL._AC_SX679_.jpg"
+  ],
+  "especificacoes": [
+    "Tela: 6.2 polegadas, AMOLED",
+    "Processador: Octa-core, 2.5 GHz",
+    "RAM: 6GB",
+    "Armazenamento: 128GB",
+    "Câmera Principal: 20MP",
+    "Bateria: 4000mAh"
+  ],
+  "vendedor": {
+    "nome": "João da Silva",
+    "endereco": "Rua dos Bobos, 0",
+    "telefone": "(00) 1234-5678",
+    "email": "tzirw@example.com",
+    "avaliacao": "3.8"
+  },
+  "comentarios": [
+      {
+        "id": 1,
+        "usuario": "Lucas",
+        "data_publicacao": "20/10/2023",
+        "titulo": "Muito bom, mas falta mais opções de cores",
+        "mensagem": "Bateria excelente, fotos incríveis. Falta de opções de cores foi o único ponto negativo.",
+        "nota": 4.5
+      },
+      {
+        "id": 2,
+        "usuario": "Ana",
+        "data_publicacao": "30/10/2023",
+        "titulo": "ótimo aparelho",
+        "mensagem": "Boas fotos, bateria ok. Armazenamento poderia ser maior.",
+        "nota": 4.0
+      },
+      {
+        "id": 3,
+        "usuario": "Miguel",
+        "data_publicacao": "12/11/2023",
+        "titulo": "Muito bom",
+        "mensagem": "Rápido, bonito, bateria boa. Tela poderia ser mais brilhante.",
+        "nota": 4.0
+      },
+      {
+        "id": 4,
+        "usuario": "Larissa",
+        "data_publicacao": "20/11/2023",
+        "titulo": "Muito bom, muito rápido, mas o preço está alto",
+        "mensagem": "Fotos boas, não trava. Preço um pouco alto.",
+        "nota": 4.0
+      },
+      {
+        "id": 5,
+        "usuario": "Matheus",
+        "data_publicacao": "1/12/2023",
+        "titulo": "Muito bom e muito rápido",
+        "mensagem": "Atendeu bem, entrega demorou um pouco.",
+        "nota": 4.5
+      }
+    ],
+
+  "perguntas": [
+    {
+      "id": 1,
+      "usuario": "Patrícia",
+      "data_publicacao": "12/10/2023",
+      "duvida": "Posso utilizar duas operadoras simultaneamente neste celular?",
+      "resposta": "Sim, este celular suporta dual SIM, permitindo o uso de duas operadoras ao mesmo tempo."
+    },
+    {
+      "id": 2,
+      "usuario": "Quintino",
+      "data_publicacao": "25/10/2023",
+      "duvida": "O celular possui certificação de sustentabilidade?",
+      "resposta": "Sim, o celular pode possuir certificações como EPEAT, indicando padrões sustentáveis de fabricação."
+    },
+    {
+      "id": 3,
+      "usuario": "Rafaela",
+      "data_publicacao": "2/11/2023",
+      "duvida": "A tela é sensível a toques com luvas?",
+      "resposta": "Sim, a tela é sensível a toques com luvas, proporcionando praticidade em ambientes mais frios."
+    },
+    {
+      "id": 4,
+      "usuario": "Sérgio",
+      "data_publicacao": "10/11/2023",
+      "duvida": "Este celular possui entrada para cartão de memória?",
+      "resposta": "Sim, o celular suporta cartões de memória para expansão de armazenamento."
+    },
+    {
+      "id": 5,
+      "usuario": "Tatiane",
+      "data_publicacao": "18/11/2023",
+      "duvida": "O celular possui reconhecimento facial?",
+      "resposta": "Sim, o celular oferece reconhecimento facial como método de desbloqueio."
+    },
+    {
+      "id": 6,
+      "usuario": "Ulisses",
+      "data_publicacao": "22/11/2023",
+      "duvida": "O sistema operacional é personalizável?",
+      "resposta": "Sim, você pode personalizar o sistema operacional através de temas e configurações."
+    },
+    {
+      "id": 7,
+      "usuario": "Viviane",
+      "data_publicacao": "29/11/2023",
+      "duvida": "Como posso estender a vida útil da bateria deste celular?",
+      "resposta": "Evite descarregar completamente a bateria e mantenha-a entre 20% e 80% para prolongar sua vida útil."
+    }
+  ],
+
+  "outros_produtos": [
+    {
+      "id": 1,
+      "nome": "Smartphone BX",
+      "imagem": "https://m.media-amazon.com/images/I/61gy23XsVjL._AC_SX679_.jpg",
+      "preco": "899,99"
+    },
+    {
+      "id": 2,
+      "nome": "Smartphone YU",
+      "imagem": "https://m.media-amazon.com/images/I/51ednlfTgkL._AC_SX679_.jpg",
+      "preco": "R$1.200,00"
+    },
+    {
+      "id": 3,
+      "nome": "Smartphone TR",
+      "imagem": "https://m.media-amazon.com/images/I/61FQ61igtVL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "preco": "R$1.500,00"
+    },
+    {
+      "id": 4,
+      "nome": "Smartphone LK",
+      "imagem": "https://m.media-amazon.com/images/I/71vxQuUlq+L._AC_SX679_.jpg",
+      "preco": "R$2.670,00"
+    },
+    {
+      "id": 5,
+      "nome": "Smartphone XU",
+      "imagem": "https://m.media-amazon.com/images/I/61aEbAwahaL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "preco": "R$7.550,00"
+    }
+  ]
+}
+

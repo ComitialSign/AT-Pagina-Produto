@@ -1,0 +1,58 @@
+.nav {
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  border-bottom: solid 1px black;
+  list-style: none;
+  padding-inline-start: 12px;
+  padding-inline-end: 12px;
+}
+
+.nav-list {
+  width: 100%;
+}
+
+.nav-home {
+  margin-top: 10px;
+}
+
+.nav-produtos img {
+  margin-top: 6px; 
+  margin-left: 3px;
+}
+
+.nav-suporte {
+  margin-bottom: 10px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.list:hover {
+  background-color: gray;
+  transition: 1s;
+}
+
+.list a {
+  width: 100%;
+  text-decoration: none;
+  color: black;
+}
+
+.list a:link {
+  text-decoration: none;
+}
+
+.list a:visited {
+  text-decoration: none;
+}
+
+.list a:active {
+  text-decoration: none;
+}
